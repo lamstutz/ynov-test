@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "name": "ynov-test",
+      "script": "npm",
+      "args": ["start"]
+    }
+  ]
+}
